@@ -43,3 +43,4 @@ const dc=["flash","superman","batman"]
 //  let score3=300;
 //  console.log(Array.of(score1,score2,score3))
 // the array.of ()method return an parameter array by conwerting it 
+nbh
