@@ -18,6 +18,6 @@
 // console.log(Math.floor(Date.now()/1000));
 // // output is  :- 1752662034
 // console.log(Date.getday())
- let newDate =new Date()
- console.log(newDate);
- 
+ let newDate =new Date("2025-07-16")
+ console.log(newDate.getDay());
+console.log(newDate.toLocaleString('default',{weekday:"long"}))
